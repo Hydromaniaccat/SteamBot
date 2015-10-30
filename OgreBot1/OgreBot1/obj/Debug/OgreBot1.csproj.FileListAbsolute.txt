@@ -1,0 +1,33 @@
+c:\users\george barsukov\documents\visual studio 2013\Projects\OgreBot1\OgreBot1\bin\Debug\OgreBot1.exe.config
+c:\users\george barsukov\documents\visual studio 2013\Projects\OgreBot1\OgreBot1\obj\Debug\OgreBot1.csprojResolveAssemblyReference.cache
+c:\users\george barsukov\documents\visual studio 2013\Projects\OgreBot1\OgreBot1\bin\Debug\OgreBot1.exe
+c:\users\george barsukov\documents\visual studio 2013\Projects\OgreBot1\OgreBot1\bin\Debug\OgreBot1.pdb
+c:\users\george barsukov\documents\visual studio 2013\Projects\OgreBot1\OgreBot1\bin\Debug\protobuf-net.dll
+c:\users\george barsukov\documents\visual studio 2013\Projects\OgreBot1\OgreBot1\bin\Debug\SteamKit2.dll
+c:\users\george barsukov\documents\visual studio 2013\Projects\OgreBot1\OgreBot1\bin\Debug\protobuf-net.pdb
+c:\users\george barsukov\documents\visual studio 2013\Projects\OgreBot1\OgreBot1\bin\Debug\protobuf-net.xml
+c:\users\george barsukov\documents\visual studio 2013\Projects\OgreBot1\OgreBot1\bin\Debug\SteamKit2.xml
+c:\users\george barsukov\documents\visual studio 2013\Projects\OgreBot1\OgreBot1\obj\Debug\OgreBot1.exe
+c:\users\george barsukov\documents\visual studio 2013\Projects\OgreBot1\OgreBot1\obj\Debug\OgreBot1.pdb
+C:\Users\George\Dropbox\OgreBot1\OgreBot1\bin\Debug\OgreBot1.exe.config
+C:\Users\George\Dropbox\OgreBot1\OgreBot1\obj\Debug\OgreBot1.exe
+C:\Users\George\Dropbox\OgreBot1\OgreBot1\obj\Debug\OgreBot1.pdb
+C:\Users\George\Dropbox\OgreBot1\OgreBot1\bin\Debug\OgreBot1.exe
+C:\Users\George\Dropbox\OgreBot1\OgreBot1\bin\Debug\OgreBot1.pdb
+C:\Users\George\Dropbox\OgreBot1\OgreBot1\bin\Debug\protobuf-net.dll
+C:\Users\George\Dropbox\OgreBot1\OgreBot1\bin\Debug\SteamKit2.dll
+C:\Users\George\Dropbox\OgreBot1\OgreBot1\bin\Debug\protobuf-net.pdb
+C:\Users\George\Dropbox\OgreBot1\OgreBot1\bin\Debug\protobuf-net.xml
+C:\Users\George\Dropbox\OgreBot1\OgreBot1\bin\Debug\SteamKit2.xml
+C:\Users\George\Dropbox\OgreBot1\OgreBot1\obj\Debug\OgreBot1.csprojResolveAssemblyReference.cache
+C:\Users\George\Dropbox\GSB_Projects\OgreBot1\OgreBot1\bin\Debug\OgreBot1.exe.config
+C:\Users\George\Dropbox\GSB_Projects\OgreBot1\OgreBot1\obj\Debug\OgreBot1.exe
+C:\Users\George\Dropbox\GSB_Projects\OgreBot1\OgreBot1\obj\Debug\OgreBot1.pdb
+C:\Users\George\Dropbox\GSB_Projects\OgreBot1\OgreBot1\bin\Debug\OgreBot1.exe
+C:\Users\George\Dropbox\GSB_Projects\OgreBot1\OgreBot1\bin\Debug\OgreBot1.pdb
+C:\Users\George\Dropbox\GSB_Projects\OgreBot1\OgreBot1\bin\Debug\protobuf-net.dll
+C:\Users\George\Dropbox\GSB_Projects\OgreBot1\OgreBot1\bin\Debug\SteamKit2.dll
+C:\Users\George\Dropbox\GSB_Projects\OgreBot1\OgreBot1\bin\Debug\protobuf-net.pdb
+C:\Users\George\Dropbox\GSB_Projects\OgreBot1\OgreBot1\bin\Debug\protobuf-net.xml
+C:\Users\George\Dropbox\GSB_Projects\OgreBot1\OgreBot1\bin\Debug\SteamKit2.xml
+C:\Users\George\Dropbox\GSB_Projects\OgreBot1\OgreBot1\obj\Debug\OgreBot1.csprojResolveAssemblyReference.cache
